@@ -9,8 +9,8 @@ Here, I've built a Snake Game using HTML, CSS, and JavaScript.
 
 # Approach:  
 I've created three files:
-* An HTML file,
-* A CSS file, and
+* An HTML file
+* A CSS file and
 * A JavaScript File
 
 Styling is given in the CSS file and functionality in the JavaScript part. Movement and food will be created in a JavaScript file.
